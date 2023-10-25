@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "modeloVirtualCChar", "modeloVirtualCChar\modeloVirtualCChar.csproj", "{6A2E3658-1383-46EE-A6F6-5DE34E702AC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DB", "DB\DB.csproj", "{A467B744-D7A7-4274-B8A9-CACD8D807A1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A2E3658-1383-46EE-A6F6-5DE34E702AC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A2E3658-1383-46EE-A6F6-5DE34E702AC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A2E3658-1383-46EE-A6F6-5DE34E702AC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A2E3658-1383-46EE-A6F6-5DE34E702AC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A467B744-D7A7-4274-B8A9-CACD8D807A1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A467B744-D7A7-4274-B8A9-CACD8D807A1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A467B744-D7A7-4274-B8A9-CACD8D807A1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A467B744-D7A7-4274-B8A9-CACD8D807A1A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EC3C5A8-CE32-444D-9244-5C7A280FAD6C}
+	EndGlobalSection
+EndGlobal
