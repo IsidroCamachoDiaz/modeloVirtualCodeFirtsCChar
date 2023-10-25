@@ -1096,19 +1096,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Puesto3\\.nuget\\packages\\": {}
+    "C:\\Users\\isidr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\modeloVirtualCChar\\modeloVirtualCChar.csproj",
+      "projectUniqueName": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\modeloVirtualCChar\\modeloVirtualCChar.csproj",
       "projectName": "modeloVirtualCChar",
-      "projectPath": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\modeloVirtualCChar\\modeloVirtualCChar.csproj",
-      "packagesPath": "C:\\Users\\Puesto3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\modeloVirtualCChar\\obj\\",
+      "projectPath": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\modeloVirtualCChar\\modeloVirtualCChar.csproj",
+      "packagesPath": "C:\\Users\\isidr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\modeloVirtualCChar\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Puesto3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isidr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1122,8 +1122,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\DB\\DB.csproj": {
-              "projectPath": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\DB\\DB.csproj"
+            "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\DB\\DB.csproj": {
+              "projectPath": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\DB\\DB.csproj"
             }
           }
         }
@@ -1178,7 +1178,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

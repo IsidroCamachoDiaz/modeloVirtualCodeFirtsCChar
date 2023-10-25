@@ -1075,19 +1075,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Puesto3\\.nuget\\packages\\": {}
+    "C:\\Users\\isidr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\DB\\DB.csproj",
+      "projectUniqueName": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\DB\\DB.csproj",
       "projectName": "DB",
-      "projectPath": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\DB\\DB.csproj",
-      "packagesPath": "C:\\Users\\Puesto3\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Puesto3\\source\\repos\\modeloVirtualCChar\\DB\\obj\\",
+      "projectPath": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\DB\\DB.csproj",
+      "packagesPath": "C:\\Users\\isidr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\isidr\\OneDrive\\Documentos\\modeloVirtualCodeFirtsCChar\\DB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Puesto3\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\isidr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1140,7 +1140,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
